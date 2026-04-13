@@ -1,7 +1,6 @@
 
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
 
-# Snap Barcode
+# Snap Barcode Scanner | Phone to PC
 
 Snap Barcode is a simple, fast system to scan barcodes using your phone and instantly send the data to your computer/server.
 
